@@ -1,1 +1,1 @@
-module "github.com/rsc/vgotest-backward/v2"
+module github.com/rsc/vgotest-backward/v2
